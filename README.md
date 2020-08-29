@@ -1,19 +1,6 @@
-# vueblog-vue
+# blog-vue
+[项目上线预览](http://pyethel.cn)
+本项目为blog项目的前端
+技术栈：vue axios element-ui
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+原项目地址https://github.com/MarkerHub/vueblog
